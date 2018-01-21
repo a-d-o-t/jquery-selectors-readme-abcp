@@ -6,6 +6,8 @@ $(‘div img:first-child’)*/
 
 $('p')
 
-$('img.')
+$('img:last')
+
+
 
 
